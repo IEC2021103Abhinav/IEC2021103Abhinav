@@ -1,7 +1,7 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
 <h3 align="center">A passionate Android developer from IIIT Allahabad</h3>
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1687506575~exp=1687507175~hmac=abb37118e53b73d6e800ae323adfe516e000689780c5e1a1e95d9ef516651e85">
+<img align="right" alt="Coding" width="150" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1687506575~exp=1687507175~hmac=abb37118e53b73d6e800ae323adfe516e000689780c5e1a1e95d9ef516651e85">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iec2021103abhinav&label=Profile%20views&color=0e75b6&style=flat" alt="iec2021103abhinav" /> </p>
 
