@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android development,kotlin,Firebase,Retrofit, Database**
 
-- 📫 How to reach me **abhinavsunny0006@gmail.com**
+- 📫 contact me at **abhinavsunny0006@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
